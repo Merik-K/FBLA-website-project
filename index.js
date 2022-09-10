@@ -1,0 +1,1 @@
+alert("Merik is Short")
