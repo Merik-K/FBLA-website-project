@@ -1,5 +1,5 @@
 .titleAndLinks {
-    color: #82f2ff;;
+    color: #0d363d;;
     text-align: center;
     margin-top: 1ch;
 }
@@ -26,14 +26,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 header {
-    background-color: #ef436e;
+    background-color: #119DA4;
     margin-left: -1ch;
     margin-right: -1ch;
     margin-top: -1ch;
     margin-bottom: 5ch;
     top: -5ch;
 }
+
 @font-face {
     font-family: Barlow-Meium;
     src: url(./Barlow/Barlow-Medium.ttf);
 }
+
