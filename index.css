@@ -1,9 +1,33 @@
-#title {
-    color: blue;
+.titleAndLinks {
+    color: #82f2ff;;
+    text-align: center;
+    margin-top: 1ch;
+}
+#mainTitle {
+    font-size: 45px;
 }
 .headerLinks {
     font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+#headerLinksContainer {
+    position:relative;
+    border-color: black;
+    border-width: 0px;
+    border-radius: 3px;
+    border-style: dashed;
+    padding-left: 1000px;
+    top: -55px;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #ef436e;
+    margin-left: -1ch;
+    margin-right: -1ch;
+    margin-top: -1ch;
+    margin-bottom: 5ch;
+    top: -5ch;
 }
