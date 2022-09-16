@@ -5,6 +5,7 @@
 }
 #mainTitle {
     font-size: 45px;
+    font-family: Barlow-Meium;
 }
 .headerLinks {
     font-size: 20px;
@@ -19,6 +20,7 @@
     border-style: dashed;
     padding-left: 1000px;
     top: -55px;
+    height: 0px;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -30,4 +32,8 @@ header {
     margin-top: -1ch;
     margin-bottom: 5ch;
     top: -5ch;
+}
+@font-face {
+    font-family: Barlow-Meium;
+    src: url(./Barlow/Barlow-Medium.ttf);
 }
