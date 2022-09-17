@@ -40,10 +40,18 @@ header {
     top: -5ch;
 }
 
+#stickyImage {
+    position: absolute;
+    width: 150px;
+    height: 75px;
+    margin-left: 400px;
+}
+
 @font-face {
     font-family: Barlow-Meium;
     src: url(./Barlow/Barlow-Medium.ttf);
 }
+
 @font-face {
     font-family: Barlow-Thin;
     src: url(./Barlow/Barlow-Thin.ttf);
